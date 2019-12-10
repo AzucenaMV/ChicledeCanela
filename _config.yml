@@ -14,11 +14,11 @@ logo: "/assets/images/cc_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/moon.jpg"
+cover: "/assets/images/bd_image.jpg"
 
 name: 'Azucena MV'
 author: 'Azucena MV'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/azucena.jpg"
 
 paginate:	5
 
