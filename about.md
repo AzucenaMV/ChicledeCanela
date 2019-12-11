@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+# Sobre mì
+Estudiante de maestria en Ciencia de Datos. Amante de la física, la filosofía, los libros, la música y la buena compañia. Disfruto dibujar al desnudo, escribir pensamientos, programar y seguir aprendiendo. Ando en bicicleta casi todos los dias, por pasión y convicción. La escalada es mi ejercicio predilecto. Nunca fui audaz en los deportes o en el baile. Lo segundo lo estoy intentando arreglar. Mi apariencia física es la de una persona diez años menor. Fácilmente me puedes hacer reir, pero tambien enojar. Soy introvertida y nunca he brillado en sociedad. En amistades, como en muchas otras cosas importantes, prefiero calidad sobre cantidad.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# Mi Blog
+Años atrás empecé a escribir por mi terrible memoria. Temía no recordar la evolución de Azucena; sus pensamientos, experiencias, pasiones, alegrías y medios. Empece por escribir en un cuaderno y después en un blog. Aunque he dejado de escribir regularmente por un largo tiempo, he encontrado en la escritura una compañera de vida. Este blog es una continuacion de aquella empresa que empece hace una ya mas una decada. Mi intencion es escribir como si nadie lo fuera leer, esperanzo que algun dia alguien lo haga. 
