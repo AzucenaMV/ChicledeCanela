@@ -16,15 +16,5 @@ La muerte es inminente por mas que quisieramos ignorarlo. Hablemos de la muerte,
 Al final nada importa mas que las experiencias que atesoramos, y que hemos compartido con los demas. La huella que dejamos en otros al partir sera el unico vestigio de nuestra efimera existencia. La memoria del ser querido sera nuestro mas preciado obituario. La vida dura tan solo instante, un instante que se va en un respiro. 
 
 
-{% highlight js %}
-
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
 
 
