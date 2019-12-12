@@ -15,6 +15,6 @@ La muerte es inminente por mas que quisieramos ignorarlo. Hablemos de la muerte,
 
 Al final nada importa mas que las experiencias que atesoramos, y que hemos compartido con los demas. La huella que dejamos en otros al partir sera el unico vestigio de nuestra efimera existencia. La memoria del ser querido sera nuestro mas preciado obituario. La vida dura tan solo instante, un instante que se va en un respiro. 
 
-
+  
 
 
