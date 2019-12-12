@@ -4,7 +4,7 @@ title:  "Sobre la vida y la muerte"
 date:   2019-12-11 1:13:00
 categories: jekyll update
 tags: featured
-image: /assets/images/moon.JPG
+image: /assets/images/moon.jpg
 ---
 
 Olvidamos lo fragiles y fugaces que somos hasta que nos encontramos cara a cara con la muerte. El destino inevitable de todo ser humano. Un final que pretendemos evadir con las preocupaciones cotidianas. Estamos tan acostumbrados a vivir que se nos olvida que estamos vivos. Estamos tan acostumbrados a respirar que se nos olvida que un día dejaremos de hacerlo. Vida y muerte son caras de una misma moneda. 
