@@ -12,7 +12,7 @@ La muerte nos quitará lo que más amamos. Lo más doloroso que hemos de vivir s
 
 La muerte es inminente por más que queramos ignorarlo. Hablemos de la muerte, ya que es lo único seguro que tendremos en esta vida. Festejemos hoy por la finitud de la vida, y la dicha de estar en el presente. Hablemos de la muerte, que se ha llevado a nuestros seres queridos. Recordemos con alegría los tiempos que compartimos con ellos.
 
-Al final nada importa más que las experiencias que atesoramos, y que hemos compartido con los demás. La huella que dejamos en otros al partir será el único vestigio de nuestra efímera existencia. La memoria del ser querido será nuestro más preciado obituario. La vida dura tan solo instante, un instante que se va en un respiro.
+Al final nada importa más que las experiencias que atesoramos, y que hemos compartido con los demás. La huella que dejamos en otros al partir será el único vestigio de nuestra efímera existencia. La memoria del ser querido será nuestro más preciado obituario. La vida dura tan solo instante, un instante que se va en un suspiro.
 
 
     
